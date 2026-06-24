@@ -1,6 +1,6 @@
 # Cloud Inventory Manager
 
-& Project Description
+# Project Description
 
 This is a simple inventory management system built using Python Flask and SQLite.
 
